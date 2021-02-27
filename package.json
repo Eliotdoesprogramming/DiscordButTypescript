@@ -13,5 +13,10 @@
     "@types/node": "^14.14.31",
     "discord-akairo": "github:1Computer1/discord-akairo",
     "discord.js": "github:discordjs/discord.js"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.2",
+    "@typescript-eslint/parser": "^4.15.2",
+    "eslint": "^7.20.0"
   }
 }
